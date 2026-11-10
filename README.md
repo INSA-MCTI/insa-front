@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # DesertPB — INSA Front
 
 WebGIS desenvolvido pelo INSA (Instituto Nacional do Semiárido) para monitorar a
@@ -374,3 +375,6 @@ data/
 =======
 # desert-pb
 >>>>>>> 089fcb5d380f12fe60ccab6850168f4e32d3073e
+=======
+# insa-front
+>>>>>>> 6fc519c3ca1fd0951e539747da37ac8378c04ef3
